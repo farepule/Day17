@@ -5,8 +5,8 @@ const BAKING_TEMPERATURES = {
 };
 
 function main(baking){
-    const {bread:{low: lowBread, high: highBread}} = BAKING_TEMPERATURES;
-    return {lowBread, highBread};
+     const {bread:{low: lowBread, high: highBread}} = BAKING_TEMPERATURES;
+     return {lowBread, highBread};
 }
 
 console.log(main(BAKING_TEMPERATURES));

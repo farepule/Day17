@@ -7,3 +7,4 @@ function main(arr){
 }
 
 console.log(main(array1));
+odule.exports = main;

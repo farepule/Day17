@@ -9,3 +9,4 @@ function main(myCar) {
 }
 
 console.log(main(MY_CAR));
+odule.exports = main;
